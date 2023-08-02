@@ -30,12 +30,11 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: sabanimwaki
-  card: ???
+  username: Fl0w3r5
 logo: /assets/images/HACKER.jpg
 social:
   name: Waithaka Joseph
   links:
-    - https://twitter.com/Fl0w3r5
+    - https://twitter.com/sabanimwaki
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
