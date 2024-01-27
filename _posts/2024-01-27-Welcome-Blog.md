@@ -7,8 +7,10 @@ Welcome to my blog where i will be sharing with you my experiences, Challenges a
 
 ABOUT ME
 
-Let me begin by introducing myself. 
+Let me begin by introducing myself. /n
+
 whoami : Waithaka Joseph but for online purposes call me FL0W3R5.
+
 I am a passionate individual with an unquenchable thirst for knowing thing. Might say a little nosey. While am relatively a noob in CyberSecurity, I am very eager to learn and grow my way up the ladder through documenting my findings not only to track my progress and to share with others but also for what it will make of me.
 
 BLOG FOCUS 
