@@ -7,7 +7,7 @@ Welcome to my blog where i will be sharing with you my experiences, Challenges a
 
 ABOUT ME
 
-Let me begin by introducing myself. /n
+Let me begin by introducing myself.
 
 whoami : Waithaka Joseph but for online purposes call me FL0W3R5.
 
