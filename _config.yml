@@ -29,6 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
+description: blog, github, CTF Walkthrough
 twitter: 
   username: Knowledge Worker
 url: "https://FL0-W3R5.github.io"
