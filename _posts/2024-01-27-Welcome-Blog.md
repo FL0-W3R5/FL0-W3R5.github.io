@@ -1,7 +1,7 @@
 
 Welcome Blog : My CTF Journey
 
-Hello Friend!
+Hello Friend !
 
 Welcome to my blog where i will be sharing with you my experiences, Challenges and insights in the Cybersecurity world as well as any tech related findings that I find interesting enough to share with you
 
