@@ -1,5 +1,12 @@
-
-Welcome Blog : My CTF Journey
+---
+layout: post
+toc: true
+title: Welcome Blog My CTF Journey
+tags: [markdown, css, html]
+author: 
+    -FL0W3R5
+    -TRYHACKME
+---
 
 Hello Friend !
 
